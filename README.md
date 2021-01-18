@@ -1,7 +1,7 @@
 # kanban_app
 
 A new Flutter project.
-
+![](Kanban.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
